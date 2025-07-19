@@ -1,4 +1,4 @@
 # apnaschool-demo
 this is my first repository
 <br>
-authar - dipesh jangra
+Authar - dipesh jangra
